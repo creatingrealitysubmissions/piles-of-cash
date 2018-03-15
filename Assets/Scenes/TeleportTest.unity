@@ -379,6 +379,37 @@ MonoBehaviour:
   chapter: 0
   audio: {fileID: 2006543117}
   clip1: {fileID: 8300000, guid: d9086ed53c294437ea60d3d51aed989f, type: 3}
+  clip2: {fileID: 8300000, guid: f65c56e35c8184029ae9c1a9059c64e6, type: 3}
+  clip3: {fileID: 8300000, guid: effb58c0622594001918214d4a585da6, type: 3}
+  clip4: {fileID: 8300000, guid: 86af0d85b1fba4f9b84726b178af5800, type: 3}
+  clip5: {fileID: 8300000, guid: 24dddae2cf5db4a42bcc84eabde60d76, type: 3}
+  clip6: {fileID: 8300000, guid: f194f51f69d1343cfbb99573819f111d, type: 3}
+  clip7: {fileID: 8300000, guid: d09ba29040879404682e476eedb3093b, type: 3}
+  clip8: {fileID: 8300000, guid: 451aca38c2a58487090e5966eb9a96af, type: 3}
+  clip9: {fileID: 8300000, guid: 17634810e9a564c0d886f9174698f683, type: 3}
+  clip10: {fileID: 8300000, guid: 7b31d876ad2614e468853c07ab9f48ce, type: 3}
+  clip11: {fileID: 8300000, guid: d764ed4a6c20f41ee9a55b861cf17f24, type: 3}
+  clip12: {fileID: 8300000, guid: 64a7e5cbdf2f640798f01bde1273ce03, type: 3}
+  clip13: {fileID: 8300000, guid: 7f835f99c65fa4e4286c58f2c98c21b7, type: 3}
+  clip14: {fileID: 8300000, guid: 6fb1eb85464674380a46ed6a1435d4c3, type: 3}
+  clip15: {fileID: 8300000, guid: d656b571926a947c0b0735305d0b6155, type: 3}
+  clip16: {fileID: 8300000, guid: d79f3015589044317a61870335b31218, type: 3}
+  clip17: {fileID: 8300000, guid: 75239e65f5aab4045a82e4c3a80b20ff, type: 3}
+  clip18: {fileID: 8300000, guid: 3033b86746ecb478791169de44c2b81a, type: 3}
+  clip19: {fileID: 8300000, guid: 89b5dd878947142489d008507b8bd9ef, type: 3}
+  clip20: {fileID: 8300000, guid: d3c887e6e1c404fe6bcea7851c411eda, type: 3}
+  clip21: {fileID: 8300000, guid: d813859530f294e83aee8ef94e82d245, type: 3}
+  clip22: {fileID: 8300000, guid: 3e0f12a67647144fbbaaa2b807d2ef5d, type: 3}
+  clip23: {fileID: 8300000, guid: 6b2235034ed754e7da844b03c8dacb0c, type: 3}
+  clip24: {fileID: 8300000, guid: c48fa59a1afea4b12b31f2fb4566632c, type: 3}
+  clip25: {fileID: 8300000, guid: a95eb276d049b482f94fa2c432cbe2c2, type: 3}
+  clip26: {fileID: 8300000, guid: e03c2c203dac24e1d9c18e52ca68081a, type: 3}
+  clip27: {fileID: 8300000, guid: 0f760bf1e2a2043c4abe4000e5ea2fcb, type: 3}
+  clip28: {fileID: 8300000, guid: 62577983baf7b4416ade08a71d6d19b9, type: 3}
+  clip29: {fileID: 8300000, guid: 8fcb7cdabe52f4780bea0fc9cb483851, type: 3}
+  clip30: {fileID: 8300000, guid: e7202b87fb9804e658b0056a8eaa0349, type: 3}
+  clip31: {fileID: 8300000, guid: cf890499ebfa64f0d976f8241e9ff977, type: 3}
+  clip32: {fileID: 8300000, guid: 7cb98615d0b89442c8d37be1ce68f7b0, type: 3}
 --- !u!4 &1090233455
 Transform:
   m_ObjectHideFlags: 0
